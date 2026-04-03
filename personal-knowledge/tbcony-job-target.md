@@ -1,0 +1,1 @@
+../../core/personal-knowledge/tbcony-job-target.md
